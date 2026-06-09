@@ -149,23 +149,6 @@ Paste the ngrok backend URL inside the Streamlit sidebar.
 
 ---
 
-# 🌐 Deployment
-
-## Streamlit Cloud
-
-Deploy frontend easily on Streamlit Cloud.
-
-## Backend
-
-Backend can run on:
-
-* Google Colab
-* Render
-* Railway
-* HuggingFace Spaces
-
----
-
 # 📈 Future Improvements
 
 * PDF Export
